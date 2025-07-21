@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm VR</h1>
+<h1 align="center">Hi there 👋, I'm Vinayak Rhatankar</h1>
 <h3 align="center">AI/ML Enthusiast | MERN Stack Developer | Tech Explorer</h3>
 
 <p align="center">
